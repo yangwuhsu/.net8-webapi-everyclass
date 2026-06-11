@@ -1,0 +1,27 @@
+webApi/01/NZWalks/
+
+# .NET 編譯輸出
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# Visual Studio 相關
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# NuGet 套件
+*.nupkg
+packages/
+
+# 測試結果
+TestResults/
+
+# 暫存檔案
+*.tmp
+*.temp
+*.log
